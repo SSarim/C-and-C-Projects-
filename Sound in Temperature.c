@@ -27,9 +27,9 @@ tfar = tempfar (tcel);
 variable = spsound (tfar);
 finans = variable * 1.09728;
 printf 
-    ("The speed of sound through %0.2lf degrees celcius environment is approximately %0.2lf km/hr",
+    ("The speed of sound through %0.2lf degrees celcius environment is approximately %0.2lf km/hr.",
 tcel, finans);
 return 0;
 }
 
-
+//Answer may not be accurate as there are many discrepancies that may reflect the final answer.
