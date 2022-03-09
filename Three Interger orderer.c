@@ -1,3 +1,6 @@
+/******************************/
+/* Sarim Shahwar- CPS188 Lab 5*/
+/******************************/
 #include <stdio.h>
 
 void order(double *sm, double *bg)
@@ -10,10 +13,7 @@ void order(double *sm, double *bg)
 			*sm = *bg;
 			*bg = Numbers;
 		}
-
-
 	}
-
 
 int main(int argc, char const *argv[])
 {
